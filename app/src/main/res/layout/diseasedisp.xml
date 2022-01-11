@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/diseasesname"
+                android:layout_width="match_parent"
+                android:layout_height="67dp"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:text="Disease" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="341dp"
+                tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+            <TextView
+                android:id="@+id/treatment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="30dp"
+                android:text="Treatmentopfoponaf;fsnd;l;lamsdfansdf'l'akkkkkkkkkkkkkkkkkkkkkkkkkkkkkksafkalsnfjajsnf;klns;afln;ksnf;oswnr4bfko;
+fkoshnfknfoanfopnoawnf;lf;lmawrunhtw;fjnposnpoahvkbr;;;;;;;;;;;;;52561629269260390609663639019;;;;;;;;;;;;;;;;;;;;;kansofsigozbzcxgyyyslknngsssssssssssssssssssssssssssssssszocvx
+aduifboiwafoanwfasl;fn;sanfkl;sannaskfniahfiwahfisifasflkasnfasxxxxxxxxxxxxxx
+uadubauiodbananodpaopdoadhuiernfpkbrpo881861561514655336xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

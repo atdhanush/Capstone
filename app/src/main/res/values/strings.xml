@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Capstone</string>
+    <string-array name="content">
+
+        <item>Bacterial Spot</item>
+        <item>Early Blight</item>
+        <item>Late Blight</item>
+        <item>Leaf Mold</item>
+        <item>Mosaic virus</item>
+        <item>Septoria Leaf Spot</item>
+        <item>Spider mites Two-spotted spider mite</item>
+        <item>Target Spot</item>
+        <item>Yellow Leaf Curl Virus</item>
+        <item>
+            Dark Green Colored Plant, Firm Leaves, Brightly colored \n
+            flowers, Well shaped, good-colored, nutritious grains, pods or fruits. \n
+            TIPS: \n
+            Fertilize with the right and a balanced nutrient supply. \n
+            Dark Green Colored Plant, Firm Leaves, Brightly colored \n
+            flowers, Well shaped, good-colored, nutritious grains, pods or fruits. \n
+            TIPS: \n
+            Fertilize with the right and a balanced nutrient supply.
+        </item>
+    </string-array>
+
+    <string-array name="title">
+        <item>Bacterial Spot</item>
+        <item>Early Blight</item>
+        <item>Late Blight</item>
+        <item>Leaf Mold</item>
+        <item>Mosaic virus</item>
+        <item>Septoria Leaf Spot</item>
+        <item>Spider mites Two-spotted spider mite</item>
+        <item>Target Spot</item>
+        <item>Healthy</item>
+        <item>Yellow Leaf Curl Virus</item>
+
+    </string-array>
+</resources>
